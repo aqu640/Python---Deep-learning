@@ -105,7 +105,6 @@ yolo task=detect    mode=train    model=yolov8n.yaml      args...
 ```
 
 ## Inference with Pre-trained COCO Model
-
 ### 💻 CLI
 
 `yolo mode=predict` runs YOLOv8 inference on a variety of sources, downloading models automatically from the latest YOLOv8 release, and saving results to `runs/predict`.
